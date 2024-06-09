@@ -88,6 +88,7 @@ View historical telemetry data to analyze trends and performance over time.
 Export data for offline analysis if needed.
 
 ## Customization
+
 1.**Modify Layouts:**
 
 Use the Open MCT layout editor to create custom dashboards tailored to the FINCH mission needs.
