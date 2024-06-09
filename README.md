@@ -32,6 +32,7 @@ Before you begin, ensure you have met the following requirements:
     npm install 
     
  3.**Run the Aether Application:**
-   ```bash
-    npm start
+  
+      ```bash
+ npm start
 
