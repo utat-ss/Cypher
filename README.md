@@ -36,3 +36,49 @@ Before you begin, ensure you have met the following requirements:
     npm start
 
 Open your browser(chrom) and navigate to http://localhost:8080 to access the Aether interface.
+
+## Configuration
+
+1.**Telemetry Data Sources:**
+
+Configure your telemetry data sources by editing the src/telemetry/sources.js file.
+Add your data streams, specifying the necessary parameters (URL, data format, etc.).
+2.**Command Interface:**
+
+Set up the command interface by editing src/commands/interface.js.
+Ensure commands are properly formatted and accessible.
+
+3.**perational Modes:**
+
+Define and configure different operational modes for the FINCH mission in src/modes/operations.js.
+Each mode should include specific parameters and telemetry requirements.
+4.**Custom Plugins:**
+
+To add custom plugins, create new JavaScript modules in the src/plugins/ directory.
+Register the plugins in the src/plugins/index.js file.
+## Usage
+1.**Telemetry Visualization:**
+
+Access real-time telemetry data through the provided panels and displays.
+Customize views to include graphs, charts, and tables of key metrics.
+2.**Command and Control:**
+
+Send commands to the satellite using the command interface.
+Monitor the status and response of issued commands.
+3.**Operational Modes:**
+
+Switch between different operational modes based on mission requirements.
+Ensure all relevant telemetry data and commands are available for each mode.
+4.**Historical Data Analysis:**
+
+View historical telemetry data to analyze trends and performance over time.
+Export data for offline analysis if needed.
+## Customization
+1.**Modify Layouts:**
+
+Use the Open MCT layout editor to create custom dashboards tailored to the FINCH mission needs.
+Save and share layouts with your team.
+2.**Develop New Plugins:**
+
+Extend Aether functionality by developing custom plugins.
+Refer to the Open MCT Plugin Development Guide for more details.
