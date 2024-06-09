@@ -25,10 +25,17 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/yourusername/aether-fincc-mission.git
    cd aether-fincc-mission
+   
  2. **Install Dependencies:**
-    npm install
+    
+      ```bash
+    npm install 
+    
  3.**Run the Aether Application:**
+
+   ```bash
     npm start
+
 Open your browser(chrome) and navigate to http://localhost:8080 to access the Aether interface.
 
 ## Configuration
