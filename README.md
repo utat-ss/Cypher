@@ -33,6 +33,6 @@ Before you begin, ensure you have met the following requirements:
     
  3.**Run the Aether Application:**
   
-      ```bash
- npm start
+    npm start
 
+Open your browser(chrom) and navigate to http://localhost:8080 to access the Aether interface.
