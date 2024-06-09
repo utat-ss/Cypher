@@ -89,4 +89,5 @@ Save and share layouts with your team.
 2.**Develop New Plugins:**
 
 Extend Aether functionality by developing custom plugins.
+
 Refer to the Open MCT Plugin Development Guide for more details.
