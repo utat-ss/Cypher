@@ -1,3 +1,9 @@
+
+![Logo]([https://your-repository-url/path-to-your-image.jpeg](https://raw.githubusercontent.com/utat-ss/Aether/b9d6c9e2909f680c30188793c4bdd77d7431d5fb/MCFINCHSAT.JPEG))
+
+
+
+
 # Aether: Mission Control for the FINCH Satellite
 
 Welcome to Aether, the mission control software for the University of Toronto Aerospace Team's FINCH mission. This README will guide you through the setup, usage, and customization of the Aether interface, built on the Open MCT platform, for the FINCH Mission Control Center team.
