@@ -1,5 +1,5 @@
 
-![Logo]([https://your-repository-url/path-to-your-image.jpeg](https://raw.githubusercontent.com/utat-ss/Aether/b9d6c9e2909f680c30188793c4bdd77d7431d5fb/MCFINCHSAT.JPEG))
+![Logo](https://raw.githubusercontent.com/utat-ss/Aether/b9d6c9e2909f680c30188793c4bdd77d7431d5fb/MCFINCHSAT.JPEG))
 
 
 
