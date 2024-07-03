@@ -1,12 +1,9 @@
 
-![Logo](https://raw.githubusercontent.com/utat-ss/Aether/b9d6c9e2909f680c30188793c4bdd77d7431d5fb/MCFINCHSAT.JPEG)
-
-
 
 
 # Cypher: Mission Control for the FINCH Satellite
 
-Welcome to Cypher, the mission control software for the University of Toronto Aerospace Team's FINCH mission. This README will guide you through the setup, usage, and customization of the Aether interface, built on the Open MCT platform, for the FINCH Mission Control Center team.
+Welcome to Cypher, the mission control software for the University of Toronto Aerospace Team's FINCH mission. This README will guide you through the setup, usage, and customization of the Cypher interface, built on the Open MCT platform, for the FINCH Mission Control Center team.
 
 "To the stars – with friends!"
 
@@ -14,7 +11,7 @@ Welcome to Cypher, the mission control software for the University of Toronto Ae
 ## Introduction
 
 
-Cypher is a web-based platform for mission operations data visualization and control, designed for the University of Toronto Aerospace Team's FINCH mission.  Leveraging Open MCT, Aether provides a robust interface for real-time telemetry visualization, command and control capabilities, and system status management.
+Cypher is a web-based platform for mission operations data visualization and control, designed for the University of Toronto Aerospace Team's FINCH mission.  Leveraging Open MCT, Cypher provides a robust interface for real-time telemetry visualization, command and control capabilities, and system status management.
 
 
 ## Prerequisites
@@ -103,6 +100,6 @@ Save and share layouts with your team.
 
 2.**Develop New Plugins:**
 
-Extend Aether functionality by developing custom plugins.
+Extend Cypher functionality by developing custom plugins.
 
 Refer to the Refer to the [Open MCT Plugin Development Guide](https://github.com/nasa/openmct/blob/master/API.md) for more details.
