@@ -4,9 +4,9 @@
 
 
 
-# Aether: Mission Control for the FINCH Satellite
+# Cypher: Mission Control for the FINCH Satellite
 
-Welcome to Aether, the mission control software for the University of Toronto Aerospace Team's FINCH mission. This README will guide you through the setup, usage, and customization of the Aether interface, built on the Open MCT platform, for the FINCH Mission Control Center team.
+Welcome to Cypher, the mission control software for the University of Toronto Aerospace Team's FINCH mission. This README will guide you through the setup, usage, and customization of the Aether interface, built on the Open MCT platform, for the FINCH Mission Control Center team.
 
 "To the stars – with friends!"
 
