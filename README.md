@@ -1,4 +1,6 @@
 
+![My Image](https://github.com/utat-ss/Cypher/blob/main/logo.JPEG)
+
 
 
 # Cypher: Mission Control for the FINCH Satellite
